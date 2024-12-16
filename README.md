@@ -10,7 +10,7 @@ Folgende Modelle sind im Laufe des Projekts entstanden (für weitere Information
 
  <table>
   <tr>
-    <td> <img width="1200" src="images/0-Workshop-Nistkasten.jpg"> </td>
+    <td> <img width="1200" src="images/0-Workshop-Nistkasten2.jpg"> </td>
     <td>
         <b>Bauworkshop-Nistkasten</b> <br><br>
         Dieser Nistkasten eignet sich durch seine einfache Montage besonders gut für Bauworkshops - z.B. mit Grundschulkindern, Jugendlichen oder Erwachsenen. Der Grundkörper besteht aus Holz, ist atmungsaktiv und bietet ein gutes Raumklima für die Vögel. Das Dach und einige andere Elemente bestehen aus Recyclingkunststoff. Die vorstehende Stufe am Einflugloch dient als effektiver Schutz vor Nesträubern wie Katzen, Mardern oder Waschbären. <br><br>
@@ -21,7 +21,7 @@ Folgende Modelle sind im Laufe des Projekts entstanden (für weitere Information
 
  <table>
   <tr>
-    <td> <img width="1200" src="images/1-Ivonne.jpg"> </td>
+    <td> <img width="1400" src="images/1-Ivonne.jpg"> </td>
     <td>
         <b>Nistkasten "Ivonne"</b> <br><br>
         Bei diesem Vogelhaus bestehen sind alle Materialien entweder wiederverwendbar oder wiederaufbereitet und somit auf jeden Fall nachhaltig und umweltfreundlich. Die Vorderseite ist so konstruiert, dass jede Behausung ein Unikat wird. Die einzelnen Platten sind verschieblich. Das und die Tatsache, dass alle Komponenten verschraubt sind, macht es komplett auseinandernehmbar. Teile können somit leicht ersetzt, ausgetauscht und gereinigt werden. Je nach Vogelart, ob Höhlen- oder Halbhöhlenbrüter kann die Öffnung der Vogelart angepasst werden. Die Kombination aus recyceltem Kunstoff und Holz erzeugt einen echten Hinkucker.<br><br>
