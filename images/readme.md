@@ -1,0 +1,1 @@
+Ablageort für Bilddateien
