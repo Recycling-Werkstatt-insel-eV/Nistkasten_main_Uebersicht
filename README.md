@@ -1,6 +1,6 @@
 # Vogelnistkästen aus Recyclingplastik und Holz zum Nachbauen
 
-Im Rahmen eines Projekts beim insel e.V. in Hamburg https://werkstatt.insel-ev.de/ wurden verschiedene Vogelnistkästen entwickelt. Die "Deutsche Stiftung für Engagement und Ehrenamt" hat das Projekt gefördert. Projektzeitraum war von November 2023 bis Dezember 2024.
+Im Rahmen eines Projekts bei der Offenen-Recycling-Werkstatt (beim insel e.V.) in Hamburg https://werkstatt.insel-ev.de/ wurden verschiedene Vogelnistkästen entwickelt. Die "Deutsche Stiftung für Engagement und Ehrenamt" hat das Projekt gefördert. Projektzeitraum war von November 2023 bis Dezember 2024.
 
 Die Nistkästen sind für verschiedene Höhlenbrüter-Vogelarten geeignet.
 
