@@ -51,3 +51,9 @@ Folgende Modelle sind im Laufe des Projekts entstanden (für weitere Information
     </td>
   </tr>
 </table>
+
+## Workshop-Unterlagen
+
+Den "Bauworkshop-Nistkasten" (der erste ganz oben) haben wir mit vielen Gruppen in Workshops gebaut und dafür Präsentationsfolien verwendet. Diese können hier heruntergeladen werden, außerdem befinden sich unter dem Link einige Hinweise zum Workshop:
+
+- [Download Präsentationsfolien + Hinweise](workshop)
