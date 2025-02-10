@@ -1,6 +1,6 @@
 # Workshop-Unterlagen
 
-In diesem Ordner liegt eine Präsentation für Bauworkshops mit einem der Vogelnistkästen (in der [Übersicht](README.md) ist er als "Bauworkshop-Nistkasten" bezeichnet).
+In diesem Ordner liegt eine Präsentation für Bauworkshops mit einem der Vogelnistkästen (in der <a href="https://github.com/Recycling-Werkstatt-insel-eV/Nistkasten_main_Uebersicht">-> Übersicht</a> ist er als "Bauworkshop-Nistkasten" bezeichnet).
 Die Präsentation liegt einmal im PowerPoint- und einmal im PDF-Format.
 Außerdem gibt es die Datei "Leitfaden_Präsentation_Bauworkshop.pdf". Diese enthält Hinweise zu jeder Folie und soll dabei helfen, sich auf die Präsentation vorzubereiten.
 
